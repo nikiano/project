@@ -1,0 +1,8 @@
+My project 
+test one 
+git init : create a new subdirectory that contains all necessary repository files
+git status : chark the status of the file that which is track or modifie 
+git add : untracked file 
+echo 'My project' < Readme : means etic 'word' in to the new documen 'Readme'
+now i learning that the file is modified what was happen and what shold i do 
+# the git diff test 
